@@ -10,7 +10,7 @@ This is the official repository accompanying the ACL 20224 full paper [MemeGuard
 Prince Jha, Raghav Jain, Konika Mandal, Sriparna Saha, Aman Chadha, Pushpak Bhattacharyya
 
 # Dataset
-[ICMM Dataset](https://forms.gle/abX6w6wwU1CzSDpJ6)
+[ICMM Dataset]()
 
 
 # Citation

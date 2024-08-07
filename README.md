@@ -17,7 +17,12 @@ Prince Jha, Raghav Jain, Konika Mandal, Sriparna Saha, Aman Chadha, Pushpak Bhat
 If you find this repository to be helpful please cite us
 
 ```
-
+@article{jha2024memeguard,
+  title={MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention},
+  author={Jha, Prince and Jain, Raghav and Mandal, Konika and Chadha, Aman and Saha, Sriparna and Bhattacharyya, Pushpak},
+  journal={arXiv preprint arXiv:2406.05344},
+  year={2024}
+}
 
 ```
 
